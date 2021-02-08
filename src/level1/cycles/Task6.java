@@ -1,0 +1,9 @@
+package level1.cycles;
+
+public class Task6 {
+    public static void main(String[] args) {
+
+    }
+
+}
+//????????????
